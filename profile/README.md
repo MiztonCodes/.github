@@ -8,7 +8,7 @@ Como ingeniero de software en la era de la IA, en la que las máquinas producen 
 * Minimalismo: Los proyectos son intencionalmente pequeños y se centran en demostrar el dominio de un campo o concepto específico.
 * C y C++: Un enfoque dedicado a estos lenguajes, comparando a menudo las diferencias de implementación entre ambos.
 
-## 🛠️ Stack Tecnológico
+## 🛠️ Herramientas
 
 * Lenguajes: C y C++ Moderno.
 * Sistemas de Compilación: CMake para proyectos robustos; scripts sencillos de Bash para ejemplos ligeros.
