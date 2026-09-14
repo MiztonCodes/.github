@@ -1,32 +1,32 @@
-## 🎯 Philosophy
+## 🎯 Filosofía
 
-As a software engineer in the age of AI, when machine produces code faster than any human, mastering the foundations of science and engineering is a must, to supervise, correct and refine the output to get the highest quality.
+Como ingeniero de software en la era de la IA, en la que las máquinas producen código más rápido que cualquier humano, dominar los fundamentos de la ciencia y la ingeniería es indispensable para supervisar, corregir y refinar el resultado y así obtener la máxima calidad.
 
-## 🚀 What You Will Find Here
+## 🚀 Qué Encontrarás Aquí
 
-* [Mizton's Blog](https://dev.to/mizton): All technical articles and their corresponding code examples.
-* Minimalism: Projects are intentionally small, focusing on demonstrating mastery of a specific domain or concept.
-* C & C++: A dedicated focus on these languages, often comparing implementation differences between the two.
+* [Blog de Mizton](https://dev.to/mizton): Todos los artículos técnicos y sus correspondientes ejemplos de código.
+* Minimalismo: Los proyectos son intencionalmente pequeños y se centran en demostrar el dominio de un campo o concepto específico.
+* C y C++: Un enfoque dedicado a estos lenguajes, comparando a menudo las diferencias de implementación entre ambos.
 
-## 🛠️ Tech Stack
+## 🛠️ Stack Tecnológico
 
-* Languages: C and Modern C++.
-* Build Systems: CMake for robust projects; simple Bash scripts for lightweight examples.
-* Testing: Focused on minimalist, manual testing suites to keep dependencies at zero.
-* Database: SQLite—the default choice for its flexibility, power, and zero-configuration requirements.
+* Lenguajes: C y C++ Moderno.
+* Sistemas de Compilación: CMake para proyectos robustos; scripts sencillos de Bash para ejemplos ligeros.
+* Pruebas: Centrado en suites de pruebas minimalistas y manuales para mantener las dependencias en cero.
+* Base de Datos: SQLite, la opción predeterminada por su flexibilidad, potencia y requisitos de configuración cero.
 
-## 🤝 Contributing
+## 🤝 Contribuciones
 
-I welcome feedback, advice, and contributions from those who share a passion for bare-metal development.
+Acepto comentarios, consejos y contribuciones de quienes comparten la pasión por el desarrollo de bajo nivel (*bare-metal*).
 
-* Fork & PR: Feel free to submit improvements, fixes, or documentation updates.
-* The Minimalist Rule: Avoid external dependencies unless they are absolutely critical to the project's core functionality.
-* Licensing: All repositories use The Unlicense, placing the code into the public domain for your freedom and use.
+* Fork y PR: No dudes en enviar mejoras, correcciones o actualizaciones de documentación.
+* La Regla Minimalista: Evita las dependencias externas a menos que sean absolutamente críticas para la funcionalidad principal del proyecto.
+* Licenciamiento: Todos los repositorios utilizan *The Unlicense*, lo que pone el código en el dominio público para tu libertad y uso.
 
-## 📫 Connect
+## 📫 Conecta
 
-* [Official Website](https://mizton.dev/)
+* [Sitio Web Oficial](https://mizton.dev/)
 * [Blog](https://dev.to/mizton)
 * [X - Twitter](https://x.com/miztondev)
-* [YouTube Channel](https://www.youtube.com/@miztondev)
+* [Canal de YouTube](https://www.youtube.com/@miztondev)
 * [LinkedIn](https://www.linkedin.com/in/swe-alberto/)
